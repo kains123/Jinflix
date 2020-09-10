@@ -1,6 +1,5 @@
 # Jinflix
 
-Learning React!!
 BBBOOOOOOMMMM!!!
 ## Screens
 - Home
