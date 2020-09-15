@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Jinflix/static/js/main.cd1549be.chunk.js",
+    "main.js.map": "/Jinflix/static/js/main.cd1549be.chunk.js.map",
+    "runtime-main.js": "/Jinflix/static/js/runtime-main.bee1229b.js",
+    "runtime-main.js.map": "/Jinflix/static/js/runtime-main.bee1229b.js.map",
+    "static/js/2.69b29659.chunk.js": "/Jinflix/static/js/2.69b29659.chunk.js",
+    "static/js/2.69b29659.chunk.js.map": "/Jinflix/static/js/2.69b29659.chunk.js.map",
+    "index.html": "/Jinflix/index.html",
+    "precache-manifest.263f623b7c43d396fe1e4f999803cc66.js": "/Jinflix/precache-manifest.263f623b7c43d396fe1e4f999803cc66.js",
+    "service-worker.js": "/Jinflix/service-worker.js",
+    "static/js/2.69b29659.chunk.js.LICENSE.txt": "/Jinflix/static/js/2.69b29659.chunk.js.LICENSE.txt",
+    "static/media/noPosterSmall.png": "/Jinflix/static/media/noPosterSmall.2acd8eb5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bee1229b.js",
+    "static/js/2.69b29659.chunk.js",
+    "static/js/main.cd1549be.chunk.js"
+  ]
+}
